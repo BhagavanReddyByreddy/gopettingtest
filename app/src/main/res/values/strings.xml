@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoPettingTest</string>
+
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="Loading..">Please Wait..</string>
+    <string name="loading">Please Wait...</string>
+
+</resources>

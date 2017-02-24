@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689165784290",
+    "project_id": "gopettingtest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689165784290:android:96bc550a73f8c302",
+        "android_client_info": {
+          "package_name": "bhagavan.gopettingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689165784290-mnegtec3rh008jnpl5r3s540ord6qv94.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "689165784290-rlimponvj902jte0rhvlhfkt0dno65ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bhagavan.gopettingtest",
+            "certificate_hash": "966bf5ae92aa742282782450ac9e7a8b45d1a116"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKBhzjURIGoTbajFFodMXPcUHRligspPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
